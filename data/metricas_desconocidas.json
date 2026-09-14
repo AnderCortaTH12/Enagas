@@ -5374,5 +5374,124 @@
     "descripcion": "Comparativa europea demanda total gas natural julio 2025 vs julio 2024 - Alemania variación total",
     "valor_aprox": "-3%",
     "pagina": 13
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Demanda eléctrica total acumulada 1 al 31 de julio 2025 vs 2026 en TWh",
+    "valor_aprox": "2025: 21,9 TWh; 2026: 23,5 TWh; Δ +1,6; %Δ +7,1%",
+    "pagina": 6
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Saldos internacionales Francia (exportación) acumulado 1 al 31 julio 2025 vs 2026 en TWh",
+    "valor_aprox": "2025: 0,4; 2026: 0,6; Δ +0,3",
+    "pagina": 6
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Saldos internacionales Portugal (exportación) acumulado 1 al 31 julio 2025 vs 2026 en TWh",
+    "valor_aprox": "2025: -1,3; 2026: -1,7; Δ -0,3",
+    "pagina": 6
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Saldos internacionales Marruecos (exportación) acumulado 1 al 31 julio 2025 vs 2026 en TWh",
+    "valor_aprox": "2025: -0,4; 2026: -0,6; Δ -0,1",
+    "pagina": 6
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Gas sector eléctrico 2025 acumulado julio: 9,3 TWh; 2026: 12,2 TWh",
+    "valor_aprox": "9,3 TWh (2025); 12,2 TWh (2026)",
+    "pagina": 6
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Destino cargas acumulado Enero-Julio 2026: EU 46,2%, Bunkering 30,3%, non EU 23,6%",
+    "valor_aprox": "EU: 46,2%; Bunkering: 30,3%; non EU: 23,6%",
+    "pagina": 19
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Existencias finales útiles AASS Julio-25: 28.668 GWh (80% llenado); Julio-26: 26.045 GWh (72% llenado); variación -9,2%",
+    "valor_aprox": "28.668 GWh 80%; 26.045 GWh 72%; -9,2%",
+    "pagina": 21
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Inyección/Extracción neta AASS Julio-25: -2.018,1 GWh/mes; Julio-26: 589,2 GWh/mes; variación <100%",
+    "valor_aprox": "-2.018,1 GWh/mes (Jul-25); 589,2 GWh/mes (Jul-26)",
+    "pagina": 21
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "Situación conexiones biometano: Solicitudes conexión viabilizadas sin restricciones: 257 (5% vs 2025); Plantas inyectando en red: 30 (43% vs 2025)",
+    "valor_aprox": "257 solicitudes 5%; 30 plantas 43%",
+    "pagina": 13
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "boletin",
+    "descripcion": "% aprovisionamiento Total GN Julio 2025: 62,9%; Total GNL Julio 2025: 37,1%",
+    "valor_aprox": "62,9% GN; 37,1% GNL (Julio 2025)",
+    "pagina": 9
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Demanda convencional total (D/C+PyMES + Industrial + Cisternas)",
+    "valor_aprox": "15,3 TWh (mes Jul2026), 133,1 TWh (Ene-Jul 2026), 227,3 TWh (TAM jul26-ago25)",
+    "pagina": 3
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Demanda sector eléctrico",
+    "valor_aprox": "12,2 TWh (mes), 58,0 TWh (acumulado anual), 107,0 TWh (TAM)",
+    "pagina": 3
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Demanda total gas natural (convencional + eléctrico)",
+    "valor_aprox": "27,5 TWh (mes), 191,1 TWh (acumulado anual), 334,3 TWh (TAM)",
+    "pagina": 3
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Demanda convencional en GWh con variación temperatura y laboralidad",
+    "valor_aprox": "15.263 GWh (jul2026), 133.081 GWh (Ene-jul 2026), 227.268 GWh (TAM jul26-ago25)",
+    "pagina": 7
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Demanda de cisternas julio-26 desagregada por tipo: Monocliente 841 GWh/mes, DCPyMES 102 GWh/mes, Transporte 69 GWh/mes",
+    "valor_aprox": "841, 102, 69 GWh/mes",
+    "pagina": 9
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Gas natural para generación eléctrica (sector eléctrico) julio 2026 vs julio 2025",
+    "valor_aprox": "5,0 TWh (jul2026), 3,7 TWh (jul2025), +35,8%",
+    "pagina": 11
+  },
+  {
+    "periodo": "2026-07",
+    "fuente": "progreso",
+    "descripcion": "Comparativa europea demanda total gas natural julio 2026 vs julio 2025 por país (España +8%, Alemania -3%, Francia -1%, Italia +6%, Portugal -8%, Reino Unido -9%)",
+    "valor_aprox": "varios porcentajes por país",
+    "pagina": 13
   }
 ]

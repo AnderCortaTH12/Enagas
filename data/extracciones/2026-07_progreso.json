@@ -1,0 +1,92 @@
+{
+  "extracciones": [
+    {
+      "metrica_id": "demanda_dc_pymes",
+      "dimension_valor": null,
+      "pagina": 3,
+      "valores": {
+        "mes": "1,1",
+        "acumulado_anual": "31,1",
+        "tam": "50,5"
+      },
+      "var_pct_interanual": {
+        "mes": "-7,8%",
+        "acumulado_anual": "-3,4%",
+        "tam": "-2,1%"
+      }
+    },
+    {
+      "metrica_id": "demanda_industrial",
+      "dimension_valor": null,
+      "pagina": 3,
+      "valores": {
+        "mes": "13,1",
+        "acumulado_anual": "94,8",
+        "tam": "164,2"
+      },
+      "var_pct_interanual": {
+        "mes": "-5,3%",
+        "acumulado_anual": "-3,5%",
+        "tam": "-2,1%"
+      }
+    },
+    {
+      "metrica_id": "demanda_cisternas",
+      "dimension_valor": null,
+      "pagina": 3,
+      "valores": {
+        "mes": "1,0",
+        "acumulado_anual": "7,2",
+        "tam": "12,5"
+      },
+      "var_pct_interanual": {
+        "mes": "2,4%",
+        "acumulado_anual": "0,7%",
+        "tam": "0,4%"
+      }
+    }
+  ],
+  "metricas_no_reconocidas": [
+    {
+      "descripcion": "Demanda convencional total (D/C+PyMES + Industrial + Cisternas)",
+      "valor_aprox": "15,3 TWh (mes Jul2026), 133,1 TWh (Ene-Jul 2026), 227,3 TWh (TAM jul26-ago25)",
+      "pagina": 3
+    },
+    {
+      "descripcion": "Demanda sector eléctrico",
+      "valor_aprox": "12,2 TWh (mes), 58,0 TWh (acumulado anual), 107,0 TWh (TAM)",
+      "pagina": 3
+    },
+    {
+      "descripcion": "Demanda total gas natural (convencional + eléctrico)",
+      "valor_aprox": "27,5 TWh (mes), 191,1 TWh (acumulado anual), 334,3 TWh (TAM)",
+      "pagina": 3
+    },
+    {
+      "descripcion": "Demanda convencional en GWh con variación temperatura y laboralidad",
+      "valor_aprox": "15.263 GWh (jul2026), 133.081 GWh (Ene-jul 2026), 227.268 GWh (TAM jul26-ago25)",
+      "pagina": 7
+    },
+    {
+      "descripcion": "Demanda de cisternas julio-26 desagregada por tipo: Monocliente 841 GWh/mes, DCPyMES 102 GWh/mes, Transporte 69 GWh/mes",
+      "valor_aprox": "841, 102, 69 GWh/mes",
+      "pagina": 9
+    },
+    {
+      "descripcion": "Gas natural para generación eléctrica (sector eléctrico) julio 2026 vs julio 2025",
+      "valor_aprox": "5,0 TWh (jul2026), 3,7 TWh (jul2025), +35,8%",
+      "pagina": 11
+    },
+    {
+      "descripcion": "Comparativa europea demanda total gas natural julio 2026 vs julio 2025 por país (España +8%, Alemania -3%, Francia -1%, Italia +6%, Portugal -8%, Reino Unido -9%)",
+      "valor_aprox": "varios porcentajes por país",
+      "pagina": 13
+    }
+  ],
+  "_meta": {
+    "modelo": "claude-sonnet-4-6",
+    "fuente": "progreso",
+    "input_tokens": 23572,
+    "output_tokens": 807
+  }
+}

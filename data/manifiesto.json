@@ -250,5 +250,19 @@
       "descargado_el": "2026-08-07",
       "extraido_el": "2026-08-07"
     }
+  },
+  "2026-07": {
+    "boletin": {
+      "url": "https://www.enagas.es/content/dam/enagas/es/ficheros/gestion-tecnica-sistema/energy-data/publicaciones/boletin-estadistico-del-gas/Bolet%C3%ADn%20Estad%C3%ADstico_jul26.pdf",
+      "sha256": "c2c4882164a6225023e394116a1053bad80cf2f373f1dc19afd23052c2f36066",
+      "descargado_el": "2026-09-14",
+      "extraido_el": "2026-09-14"
+    },
+    "progreso": {
+      "url": "https://www.enagas.es/content/dam/enagas/es/ficheros/gestion-tecnica-sistema/energy-data/publicaciones/demanda-de-gas/demanda-mensual/Progreso_julio26.pdf",
+      "sha256": "a81737b179a84f2af0cc01007e682853cf2125c78745c4329e6f20a5dd2c6051",
+      "descargado_el": "2026-09-14",
+      "extraido_el": "2026-09-14"
+    }
   }
 }

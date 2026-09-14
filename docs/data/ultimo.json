@@ -1,13 +1,13 @@
 {
-  "periodo": "2026-06",
-  "generado_el": "2026-08-10T08:24:07Z",
+  "periodo": "2026-07",
+  "generado_el": "2026-09-14T10:47:38Z",
   "kpis": [
     {
       "metrica_id": "total_salidas",
       "nombre": "Total salidas del sistema gasista",
       "unidad": "GWh",
-      "valor": 26231.0,
-      "var_pct_interanual": -6.0,
+      "valor": 29468.0,
+      "var_pct_interanual": 6.2,
       "sparkline": [
         [
           "2025-01",
@@ -80,6 +80,10 @@
         [
           "2026-06",
           26231.0
+        ],
+        [
+          "2026-07",
+          29468.0
         ]
       ]
     },
@@ -87,8 +91,8 @@
       "metrica_id": "demanda_nacional",
       "nombre": "Demanda nacional",
       "unidad": "GWh",
-      "valor": 23840.0,
-      "var_pct_interanual": -6.7,
+      "valor": 27507.0,
+      "var_pct_interanual": 8.4,
       "sparkline": [
         [
           "2025-01",
@@ -161,6 +165,10 @@
         [
           "2026-06",
           23840.0
+        ],
+        [
+          "2026-07",
+          27507.0
         ]
       ]
     },
@@ -168,8 +176,8 @@
       "metrica_id": "demanda_convencional",
       "nombre": "Demanda convencional",
       "unidad": "GWh",
-      "valor": 15267.0,
-      "var_pct_interanual": -2.8,
+      "valor": 15263.0,
+      "var_pct_interanual": -5.0,
       "sparkline": [
         [
           "2025-01",
@@ -246,6 +254,10 @@
         [
           "2026-06",
           15267.0
+        ],
+        [
+          "2026-07",
+          15263.0
         ]
       ]
     },
@@ -253,8 +265,8 @@
       "metrica_id": "demanda_sector_electrico",
       "nombre": "Demanda del sector eléctrico",
       "unidad": "GWh",
-      "valor": 8573.0,
-      "var_pct_interanual": -12.9,
+      "valor": 12244.0,
+      "var_pct_interanual": 31.5,
       "sparkline": [
         [
           "2025-01",
@@ -327,6 +339,10 @@
         [
           "2026-06",
           8573.0
+        ],
+        [
+          "2026-07",
+          12244.0
         ]
       ]
     }
