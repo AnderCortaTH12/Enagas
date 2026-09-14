@@ -193,7 +193,12 @@ def extraer_documento(
         with client.messages.stream(
             model=MODEL,
             max_tokens=MAX_TOKENS,
-            temperature=0,
+            # temperature va en extra_body y no como kwarg: el SDK lo
+            # retiró de la firma de Messages.create/stream, pero
+            # claude-sonnet-4-6 sigue aceptándolo en el request. Así se
+            # sigue enviando temperature=0 (determinismo, ver docstring)
+            # sin depender de la firma del método.
+            extra_body={"temperature": 0},
             system=system_prompt,
             messages=[{"role": "user", "content": content}],
         ) as stream:

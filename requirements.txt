@@ -1,5 +1,8 @@
 pdfplumber>=0.11
-anthropic>=0.40
+# Techo en la siguiente major como red de seguridad: el arreglo real
+# está en src/extraccion/llm.py (temperature via extra_body). El suelo
+# es la versión probada en local; sube ambos cuando valides una major.
+anthropic>=0.120.2,<1.0
 requests>=2.31
 pandas>=2.0
 python-dotenv>=1.0
